@@ -1,0 +1,3 @@
+Manifest-Version: 1.0 
+Class-Path: imgscalr.jar
+Main-Class: FindSimilarApp
